@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm I'm Shahbaz Alam currently a Second Year CSE student at @BTI/VTU 🏫 and aspiring software developer💻. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐</h1>
+<h1 align="center">I'm Shahbaz Alam currently a Second Year CSE student at @BTI/VTU 🏫 and aspiring software developer💻. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐</h1>
 <h3 align="center">Developer who doesn't like coffee , addicted to books and about software enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csalam07&label=Profile%20views&color=0e75b6&style=flat" alt="csalam07" /> </p>
