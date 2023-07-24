@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is CsAlam and an Open Source Enthusiast who is highly passionate about building fast, creating applications and writing beautiful codes.</h2>
+<h2 align="left">Hi 👋! An Open Source Enthusiast who is highly passionate about building fast, creating applications and writing beautiful codes.</h2>
 
 ###
 
